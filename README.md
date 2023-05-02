@@ -29,3 +29,7 @@ Our trained model achieved a validation accuracy of 78%. While this is a decent 
 - Increasing the size of the input images beyond 64x64 pixels
 - Use a larger portion of the dataset
 - Tuning hyperparameters such as the learning rate, batch size, and number of epochs
+
+## Contributed by
+- Amanuel Tesfaye
+- Wasay Qureshi
