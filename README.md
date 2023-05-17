@@ -17,11 +17,11 @@ You can install these libraries using pip:
 # Downloading the dataset
 The code consists of the following files:
 
-## img_align_celeba.zip
+### img_align_celeba.zip
 - You can download this zip file by going to this link (https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 - Click on the Google Drive link -> Img and you should find it there (You can also use Baidu link provided)
 
-## list_attr_celeba.txt
+### list_attr_celeba.txt
 - You can dowload this file from the save google drive link as the above file
 - Google Drive link -> Anno
 
