@@ -22,7 +22,7 @@ The code consists of the following files:
 - Click on the Google Drive link -> Img and you should find it there (You can also use Baidu link provided)
 
 ## list_attr_celeba.txt
-_ You can dowload this file from the save google drive link as the above file
+- You can dowload this file from the save google drive link as the above file
 - Google Drive link -> Anno
 
 # Results
