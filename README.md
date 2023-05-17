@@ -21,6 +21,10 @@ The code consists of the following files:
 - You can download this zip file by going to this link (https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 - Click on the Google Drive link -> Img and you should find it there (You can also use Baidu link provided)
 
+## list_attr_celeba.txt
+_ You can dowload this file from the save google drive link as the above file
+- Google Drive link -> Anno
+
 # Results
 Our trained model achieved a validation accuracy of 78%. While this is a decent result, there is certainly room for improvement. Some possible avenues for improving the model include:
 
