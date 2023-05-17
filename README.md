@@ -14,13 +14,12 @@ To run this code, you will need the following libraries:
 - Matplotlib
 You can install these libraries using pip:
 
-# Running the code
+# Downloading the dataset
 The code consists of the following files:
 
-- Upload the celebA dataset to your google drive as a zip file
-- Upload all companion files to the celebA images dataset
-- Set the right paths for the corresponding files  
-- Run the notebook porvided 
+## img_align_celeba.zip
+- You can download this zip file by going to this link (https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
+- Click on the Google Drive link -> Img and you should find it there (You can also use Baidu link provided)
 
 # Results
 Our trained model achieved a validation accuracy of 78%. While this is a decent result, there is certainly room for improvement. Some possible avenues for improving the model include:
