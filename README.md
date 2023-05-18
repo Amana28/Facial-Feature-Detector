@@ -1,6 +1,6 @@
 # Facial Features Detection with Convolutional Neural Networks
 
-This repository contains code for training a Convolutional Neural Network (CNN) on the CelebA dataset to detect facial features such as eyes, nose, and mouth. Currently we are focusing on predicting the attractiveness of faces to tune our model but plan to predict more than 10 attributes in the future. 
+This repository contains code for training a Convolutional Neural Network (CNN) on the CelebA dataset to detect the attractivenes feature. Currently we are focusing on predicting the attractiveness of faces to tune our model. 
 
 # Dataset
 The CelebA dataset contains over 200,000 celebrity images with annotations for various facial features. For this project, we will use a subset of the dataset (50000 images) which has been preprocessed and contains 64x64 pixel images.
@@ -26,15 +26,10 @@ The code consists of the following files:
 - Google Drive link -> Anno
 
 # Results
-Our trained model achieved a validation accuracy of 78%. While this is a decent result, there is certainly room for improvement. Some possible avenues for improving the model include:
-
-- Using a larger CNN architecture with more layers and parameters
-- Increasing the size of the input images beyond 64x64 pixels
-- Use a larger portion of the dataset
-- Tuning hyperparameters such as the learning rate, batch size, and number of epochs
+Our trained model achieved a validation accuracy of 78%. While this is a decent result, there is certainly room for improvement. 
 
 # Extensions
-
+- Trying other models good at face recognition (e.g VGG Face)
 - Being able to predict more than one attribute with high accuracy 
 
 ## Contributed by
